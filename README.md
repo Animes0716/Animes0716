@@ -47,13 +47,13 @@ Human–AI interaction and reciprocal reasoning · AI evaluation and critical fe
 | Repository | What you'll find |
 |---|---|
 | [Project-SYNAPSE](https://github.com/Animes0716/Project-SYNAPSE) | Publicly shareable project-related research and contributions |
-| [DSA](https://github.com/Animes0716/DSA) | Data structures, algorithms, and problem-solving |
-| [ML](https://github.com/Animes0716/ML) | Machine learning notes, implementations, and experiments |
+| [DSA](https://github.com/Animes0716/DSA) | Data structures, algorithms and problem-solving |
+| [ML](https://github.com/Animes0716/ML) | Machine learning notes, implementations and experiments |
 | [DL](https://github.com/Animes0716/DL) | Deep learning concepts and experiments |
-| [Python](https://github.com/Animes0716/Python) | Python practice, scripts, and projects |
+| [Python](https://github.com/Animes0716/Python) | Python practice, scripts and projects |
 | [RAG](https://github.com/Animes0716/RAG) | Retrieval-augmented generation experiments and applications |
-| [Agentic-AI](https://github.com/Animes0716/Agentic-AI) | AI agents, tool use, and agentic workflows |
-| [Research](https://github.com/Animes0716/Research) | Paper notes, literature reviews, and research documentation |
+| [Agentic-AI](https://github.com/Animes0716/Agentic-AI) | AI agents, tool use and agentic workflows |
+| [Research](https://github.com/Animes0716/Research) | Paper notes, literature reviews and research documentation |
 
 ## 🤝 Connect
 
