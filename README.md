@@ -59,7 +59,7 @@ Human–AI interaction and reciprocal reasoning · AI evaluation and critical fe
 
 - **LinkedIn:** [Animes Pharikal](https://linkedin.com/in/animes-pharikal)
 - **GitHub:** [@Animes0716](https://github.com/Animes0716)
-- **Email:** [pharikalanimies@gmail.com](mailto:pharikalanimies@gmail.com)
+- **Email:** [disciplinedmode5772@gmail.com](mailto:disciplinedmode5772@gmail.com)
 
 ---
 
