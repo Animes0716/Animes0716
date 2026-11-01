@@ -9,9 +9,9 @@ My interests include **Artificial Intelligence, Machine Learning, Deep Learning,
 
 ## 🔬 Current Focus
 
-- **Research Contributor — Project SYNAPSE:** contributing to research-oriented work and exploring AI reasoning, evaluation, and human–AI interaction.
-- Exploring machine learning, deep learning, NLP, RAG, and agentic systems.
-- Strengthening programming fundamentals, problem-solving, and research skills.
+- **Research Contributor — Project SYNAPSE:** contributing to research-oriented work and exploring AI reasoning, evaluation and human–AI interaction.
+- Exploring machine learning, deep learning, NLP, RAG and agentic systems.
+- Strengthening programming fundamentals, problem-solving and research skills.
 
 ## 🛠️ Technical Skills
 
