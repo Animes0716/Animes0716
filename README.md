@@ -24,10 +24,10 @@ My interests include **Artificial Intelligence, Machine Learning, Deep Learning,
 
 ## 🚀 Selected Projects
 
-- **Camelot — AI-Assisted Temporal Intelligence Workspace:** a workspace concept connecting projects, ideas, decisions, tasks, documents, and history. Built with React, TypeScript, FastAPI, Python, SQLAlchemy, SQLite, and Google GenAI/Gemma.
-- **Data Shakti — Data Filtration & Exploration:** a concept for cleaning, searching, comparing, and visualizing public datasets, with AI-assisted explanations and pattern discovery.
+- **Camelot — AI-Assisted Temporal Intelligence Workspace:** a workspace concept connecting projects, ideas, decisions, tasks, documents and history. Built with React, TypeScript, FastAPI, Python, SQLAlchemy, SQLite and Google GenAI/Gemma.
+- **Data Shakti — Data Filtration & Exploration:** a concept for cleaning, searching, comparing and visualizing public datasets, with AI-assisted explanations and pattern discovery.
 - **Phishing Detector:** a Python and Flask web prototype that flags suspicious URLs using URL characteristics and rule-based checks.
-- **VotePath — Election Process Assistant:** a static civic-information web application built with HTML, CSS, JavaScript, and Firebase Hosting.
+- **VotePath — Election Process Assistant:** a static civic-information web application built with HTML, CSS, JavaScript and Firebase Hosting.
 
 ## 📚 Learning & Programs
 
