@@ -5,7 +5,7 @@
 
 I'm a Computer Science and Engineering undergraduate at the University of Engineering and Management, interested in building and understanding intelligent systems.
 
-My interests include **Artificial Intelligence, Machine Learning, Deep Learning, NLP, Retrieval-Augmented Generation (RAG), Agentic AI, and Human–AI Interaction**. I enjoy combining practical software development with research, experimentation, and evidence-based analysis.
+My interests include **Artificial Intelligence, Machine Learning, Deep Learning, NLP, Retrieval-Augmented Generation (RAG), Agentic AI and Human–AI Interaction**. I enjoy combining practical software development with research, experimentation and evidence-based analysis.
 
 ## 🔬 Current Focus
 
